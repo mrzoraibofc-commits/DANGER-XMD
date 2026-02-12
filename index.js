@@ -120,8 +120,8 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*Hello there Hissari-Boy-MD User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet BarbieX-MD WhatsApp Bot.\n\n *Thanks for using Hissari-Boy-MD \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029Vb6Qyym7YSd3VRCxxQ1B \n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/hissari-bacha/Hissari-Bacha.git\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Hissari-Boy-MD Official ❣️ \ud83d\udda4`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/qeq0cg.jpg` }, caption: up })
+  let up = `*ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴜꜱɪɴɢ ᴅᴀɴɢᴇʀ xᴍᴅ ʙᴏᴛ! \ud83d\udc4b\ud83c\udffb* \n\n> ꜱɪᴍᴘʟᴇ, ꜱᴛʀᴀɪɢʜᴛ ꜰᴏʀᴡᴀʀᴅ ʙᴜᴛ ʟᴏᴀᴅᴇᴅ ᴡɪᴛʜ 1000+ ꜰᴇᴀᴛᴜʀᴇꜱ \ud83c\udf8a, ᴍᴇᴇᴛ ᴅᴀɴɢᴇʀ-xᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ.\n\n *ᴅᴀɴɢᴇʀ-xᴍᴅ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ʜᴜꜱꜱɪxᴢᴏʀᴀɪʙ \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029Vb6z9Rr0lwgywFkl9y36 \n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/mrzoraibofc-commits/DANGER-XMD\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʜᴜꜱꜱɪxᴢᴏʀᴀɪʙ ❣️ \ud83d\udda4`;
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/fuvoh9.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -776,7 +776,7 @@ if (!isReact && config.CUSTOM_REACT === 'true') {
   }
   
   app.get("/", (req, res) => {
-  res.send("BarbieX-MD STARTED ✅");
+  res.send("DANGER-XMD STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
