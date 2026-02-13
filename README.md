@@ -8,6 +8,10 @@
 <a href="https://whatsapp.com/channel/0029Vb6z9Rr0lwgywFkl9y36">
  <img alt="DANGER-XMD" height="400" src="https://files.catbox.moe/qpd9jt.jpg"></a>
 
+    ## 📡 DEPLOYMENT SITES
+
+<p align="center">Deploy your <strong>DANGER-XMD Bot</strong> with one click on your favorite hosting platforms.</p>
+
 <div align="center">
   <table>
     <tr>
@@ -16,17 +20,8 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=rocket&logoColor=white"/>
 </a></td>
       <!-- Replit -->
-      <td><a href="https://replit.com/github.com/mrzoraibofc-commits/DANGER-XMD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000"/></a></td>
-
-<table>
-  <tr>
-    <td>
-      <a href="http://arslan-md-pairing.great-site.net">
-        <img src="https://img.shields.io/badge/🔑_GET_PAIRING_V1-FF00FF?style=for-the-badge&logo=key&logoColor=white&labelColor=000000" width="300"/>
-      </a>
-    </td>
-    <td>
-       </tr>
+      <td><a href="https://replit.com/https://github.com/mrzoraibofc-commits/DANGER-XMD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
     <tr>
       <!-- Koyeb -->
       <td><a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/mrzoraibofc-commits/DANGER-XMD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
@@ -39,3 +34,5 @@
       <!-- Netlify -->
       <td><a href="https://app.netlify.com/start/deploy?repository=https://github.com/mrzoraibofc-commits/DANGER-XMD" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
     </tr>
+  </table>
+</div>
