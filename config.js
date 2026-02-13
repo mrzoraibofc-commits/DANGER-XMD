@@ -47,7 +47,7 @@ OWNER_NAME: process.env.OWNER_NAME || "*Hussi Official*",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Zoraibxhussi Official ❣️*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/qpnazl.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/d5nfvg.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar ⚡",
 // add alive msg here 
