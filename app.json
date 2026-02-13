@@ -1,7 +1,7 @@
 {
   "name": "DANFER-XMD",
   "description": "Javascript WhatsApp bot made by Hussi king",
-  "logo": "https://files.catbox.moe/h455oc.jpg",
+  "logo": "https://files.catbox.moe/d5nfvg.jpg",
   "keywords": ["DANGER-XMD"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "danger-xmd"
+      "value": "HUSSI-XD"
     }, 
       
     "PREFIX": {
@@ -85,13 +85,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "*ZORAIB-XD*"
+      "value": "*DANGER-XMD*"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923247947238"
+      "value": "9203487575174"
 
     }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/uo9g2o.jpg"
+      "value": "https://files.catbox.moe/d5nfvg.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© POWERED BYE ZORAIB-XD 🤍*"
+      "value": "*© POWERED BYE HUSSIXZORAIB 🤍*"
     },
 
       "DELETE_LINKS": {
