@@ -61,5 +61,5 @@
 <tr>
 <td align="center">
   <img src="https://files.catbox.moe/jftrh0.jpg" width="100"><br>
-  <b>𝐀𝐑𝐒𝐋𝐀𝐍-𝐌𝐃</b><br><i>DEVELOPER🤍</i>
+  <b>𝐀𝐑𝐒𝐋𝐀𝐍-𝐌𝐃</b><br><i>DEVELOPER</i>
 </td>
