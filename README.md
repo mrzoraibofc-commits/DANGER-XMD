@@ -10,12 +10,12 @@
  <table>
   <tr>
     <td>
-      <a href="http://arslan-md-pairing.great-site.net">
+      <a href="https://mrzoraibofc-973b07a50d25.herokuapp.com/pair">
         <img src="https://img.shields.io/badge/🔑_GET_PAIRING_V1-FF00FF?style=for-the-badge&logo=key&logoColor=white&labelColor=000000" width="300"/>
       </a>
     </td>
     <td>
-      <a href="https://mega-session-site.onrender.com">
+      <a href="https://mrzoraibofc-973b07a50d25.herokuapp.com/pair">
         <img src="https://img.shields.io/badge/🇵🇰_GET_PAIRING_V2-FF00FF?style=for-the-badge&logo=key&logoColor=white&labelColor=000000" width="300"/>
       </a>
     </td>
