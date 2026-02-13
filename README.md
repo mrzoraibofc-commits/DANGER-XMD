@@ -26,3 +26,16 @@
       </a>
     </td>
     <td>
+       </tr>
+    <tr>
+      <!-- Koyeb -->
+      <td><a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/mrzoraibofc-commits/DANGER-XMD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <!-- Railway -->
+      <td><a href="https://railway.app/new/template?template=https://github.com/mrzoraibofc-commits/DANGER-XMD" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <!-- Render (blue color theme) -->
+      <td><a href="https://render.com/deploy?repo=https://github.com/mrzoraibofc-commits/DANGER-XMD" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=007FFF"/></a></td>
+      <!-- Netlify -->
+      <td><a href="https://app.netlify.com/start/deploy?repository=https://github.com/mrzoraibofc-commits/DANGER-XMD" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
